@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @raj-013
+- 👀 I’m interested in Computers and Coding.
+- 🌱 I’m currently learning ML in Python.
+- 📫 How to reach me: http://www.linkedin.com/in/rajpatel013

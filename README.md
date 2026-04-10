@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @raj-013
 - 👀 I’m interested in Artificial Intelligence and Coding.
-- 🌱 I’m currently learning Machine Learning using Python.
+- 🌱 I’m currently a Machine Learning Engineer.
 - 📫 How to reach me: http://www.linkedin.com/in/rajpatel013
